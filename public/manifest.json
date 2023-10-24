@@ -1,0 +1,6 @@
+{
+  "short_name": "Code Sandbox",
+  "name": "Code Sandbox",
+  "start_url": ".",
+  "display": "standalone"
+}
